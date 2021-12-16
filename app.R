@@ -5,7 +5,6 @@ library(ggimage, warn.conflicts = FALSE)
 library(nflfastR, warn.conflicts = FALSE)
 library(dplyr, warn.conflicts = FALSE)
 library(nflreadr, warn.conflicts = FALSE)
-library(nflscrapR, warn.conflicts = FALSE)
 library(ggplot2, warn.conflicts = FALSE)
 library(shiny)
 
